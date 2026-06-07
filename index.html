@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <title>Cadastro de Filmes</title>
+
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="container">
+
+    <h1>🎬 Cadastro de Filmes</h1>
+
+    <div class="card">
+
+        <h2>Novo Filme</h2>
+
+        <form id="formFilme">
+            <input type="text" id="titulo" placeholder="Título do Filme" required>
+
+            <select id="genero">
+                <option>Ação</option>
+                <option>Comédia</option>
+                <option>Drama</option>
+                <option>Ficção</option>
+            </select>
+
+            <button type="submit">
+                Cadastrar
+            </button>
+        </form>
+
+    </div>
+
+    <div class="card">
+
+        <h2>Filmes Cadastrados</h2>
+
+        <ul id="listaFilmes"></ul>
+
+    </div>
+
+    <a href="grafico.html">
+        📊 Abrir Dashboard
+    </a>
+
+</div>
+
+<script src="cadastro.js"></script>
+
+</body>
+</html>

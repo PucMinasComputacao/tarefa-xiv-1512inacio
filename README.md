@@ -32,14 +32,11 @@ Mapa com localização dos eventos: Especialmente útil se os eventos forem em d
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
+- Nome: Inácio Silva Parreiras
+- Matricula: 915576
 
 ## Prints do trabalho
 
-<<  COLOQUE A IMAGEM - TELA DE CARDS DE PRODUTOS - AQUI >>
+![alt text](image.png)
 
-<<  COLOQUE A IMAGEM - TELA DE DETALHE DO PRODUTO - AQUI >>
-
-<<  COLOQUE A IMAGEM - TELA DO CONSOLE - AQUI >>
-
+![alt text](image-1.png)
