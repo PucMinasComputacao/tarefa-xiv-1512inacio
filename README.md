@@ -29,7 +29,6 @@ Calendário interativo com datas dos eventos: Visualização dos eventos em um c
 Gráfico de eventos por tipo (show, palestra, workshop…): Gráfico de pizza ou barras.   [Chart,js]
 Mapa com localização dos eventos: Especialmente útil se os eventos forem em diferentes cidades. [Mapbox]
  
-
 ## Informações Gerais
 
 - Nome: Inácio Silva Parreiras
